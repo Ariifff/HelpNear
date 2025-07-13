@@ -42,3 +42,19 @@ To run the app locally:
 3.Make sure to add your own google-services.json (Firebase config) inside the app/ folder.
 
 4.Build & run on an emulator or Android device.
+
+##📂 Project Structure
+```
+HelpNear/
+├── app/
+│   ├── java/com/arif/helpnear/
+│   │   ├── LoginActivity.java
+│   │   ├── RegisterActivity.java
+│   │   ├── MainActivity.java
+│   │   └── ComplaintActivity.java
+│   ├── res/
+│   │   ├── layout/
+│   │   └── drawable/
+│   └── AndroidManifest.xml
+├── build.gradle
+└── ...
