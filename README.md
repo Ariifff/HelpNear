@@ -43,7 +43,9 @@ To run the app locally:
 
 4.Build & run on an emulator or Android device.
 
-##📂 Project Structure
+---
+
+## 📂 Project Structure
 ```
 HelpNear/
 ├── app/
@@ -58,3 +60,16 @@ HelpNear/
 │   └── AndroidManifest.xml
 ├── build.gradle
 └── ...
+
+```
+---
+
+## 🔑 Firebase Setup
+
+Create a project at Firebase Console.
+
+Enable Authentication (Email/Password).
+
+Enable Realtime Database.
+
+Download google-services.json and place it inside app/
