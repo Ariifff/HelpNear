@@ -66,10 +66,16 @@ HelpNear/
 
 ## 🔑 Firebase Setup
 
-Create a project at Firebase Console.
+1. Create a project at Firebase Console.
 
-Enable Authentication (Email/Password).
+2. Enable Authentication (Email/Password).
 
-Enable Realtime Database.
+3. Enable Realtime Database.
 
-Download google-services.json and place it inside app/
+4. Download google-services.json and place it inside app/
+
+---
+
+## 🙋‍♂️ Author
+
+Made with ❤️ by Mohd Arif Rainee
